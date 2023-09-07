@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brwaters
 - 👀 I’m interested in using APIs
-- 🌱 I’m currently learning practicing C
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Destiny Item Manager
 
 <!---
