@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Software Engineering at University of Victoria
 - 💞️ I’m looking for co-op work term experience
 
-You can find short clips of my game demos (and other work) ![here!](https://vimeo.com/user207393122)
+You can find short clips of my game demos (and other work) [@Vimeo](https://vimeo.com/user207393122)
 
 <!---
 brwaters/brwaters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
